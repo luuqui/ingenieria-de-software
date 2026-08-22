@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "74de5e077047413e",
@@ -179,13 +178,23 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "681115aec7a885fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +212,11 @@
   "lastOpenFiles": [
     "práctica1/Practica-1-TER.pdf",
     "práctica1/Práctica 1.md",
-    "Pasted image 20260822161930.png",
-    "Pasted image 20260822161857.png",
-    "Pasted image 20260822161839.png",
-    "Pasted image 20260822155541.png",
-    "Pasted image 20260822131514.png",
-    "Pasted image 20260822131544.png"
+    "práctica1/Pasted image 20260822161930.png",
+    "práctica1/Pasted image 20260822161857.png",
+    "práctica1/Pasted image 20260822161839.png",
+    "práctica1/Pasted image 20260822155541.png",
+    "práctica1/Pasted image 20260822131514.png",
+    "práctica1/Pasted image 20260822131544.png"
   ]
 }
