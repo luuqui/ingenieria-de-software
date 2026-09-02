@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6008e8705d30d613",
+        "id": "37bb388d703c53d0",
         "type": "tabs",
         "children": [
           {
-            "id": "dc8a6a51b0c842ca",
+            "id": "f303ef9dad8ef19a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "práctica 2/Ejercicio 3.md",
+                "file": "práctica 2/Ejercicio 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicio 3"
+              "title": "Ejercicio 5"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "74de5e077047413e",
@@ -197,12 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc8a6a51b0c842ca",
+  "active": "f303ef9dad8ef19a",
   "lastOpenFiles": [
-    "práctica 2/Ejercicio 3.md",
-    "práctica 2/Practica-HU_2026.pdf",
-    "práctica 2/Ejercicio 2.md",
     "práctica 2/Ejercicio 1.md",
+    "práctica 2/Ejercicio 5.md",
+    "práctica 2/Ejercicio 3.md",
+    "práctica 2/Ejercicio 2.md",
+    "práctica 2/Ejercicio 4.md",
+    "práctica 2/Practica-HU_2026.pdf",
     "práctica1/Practica-1-TER.pdf",
     "práctica1/Práctica 1.md",
     "práctica1/Pasted image 20260822161930.png",
