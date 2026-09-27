@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b9fbe6ae1e7f1c5",
+        "id": "dfa408a58f04bdfd",
         "type": "tabs",
         "children": [
           {
-            "id": "35e2eed76d23343c",
+            "id": "1d22a82f5c77f1fe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,14 +192,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e2eed76d23343c",
+  "active": "1d22a82f5c77f1fe",
   "lastOpenFiles": [
+    "Sin título.canvas",
+    "práctica 2/Parcial - Cadena de gimnasios.md",
+    "práctica 2/Parcial - Clínica médica.md",
+    "práctica 2/Ejercicio 10.md",
     "práctica 2/Practica-HU_2026.pdf",
+    "práctica 2/Repaso ej1..md",
+    "práctica 2/Parcial.md",
+    "práctica 2/Ejercicio 9.md",
+    "práctica 2/Ejercicio 1.md",
     "práctica 2/Ejercicio 8.md",
     "práctica 2/Ejercicio 7.md",
     "práctica 2/Ejercicio 6.md",
     "práctica 2/Ejercicio 5.md",
-    "práctica 2/Ejercicio 1.md",
     "práctica 2/Ejercicio 3.md",
     "práctica 2/Ejercicio 2.md",
     "práctica 2/Ejercicio 4.md",
